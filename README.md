@@ -5,4 +5,4 @@
 
 
 ## Usage
-[Click here for a live demo](https://jonathanmorag.github.io/covid-19-tracker/)
+<a href="https://jonathanmorag.github.io/covid-19-tracker/" target="_blank">Click here for a live demo</a>
